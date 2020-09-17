@@ -25,6 +25,8 @@ img{
   width: 100%;
   max-width: 300px;
   border: none;
+  display: block;
+  margin: 20px auto;
 }
 
 #timeforajoke {
@@ -37,5 +39,4 @@ a{
   font-weight: bold;
   font-style: italic;
   color: darkred;
-  display: block;
 }
